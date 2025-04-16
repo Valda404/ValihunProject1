@@ -13,8 +13,7 @@ const translations = {
     q2: "Jaký způsob přípravy obvykle preferujete? (maximálně 3)",
     q3: "Byl byste ochotný si za svou kávu připlatit, pokud by splňovala označení „Fair trade“?",
     q4: "Jakou částku byste byl ochoten připlatit?",
-    q5: "Jak hodnotíte prostředí, kde jste kávu ochutnal?",
-    q6: ""
+    q5: "Jak hodnotíte prostředí, kde jste kávu ochutnal?"
   }
 };
 
